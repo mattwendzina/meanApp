@@ -48,8 +48,6 @@ Thumbs.db
 #ENV variables
 nodemon.json
 
-#Environments
-environment.ts
-environment.prod.ts
+.environments
 
 
